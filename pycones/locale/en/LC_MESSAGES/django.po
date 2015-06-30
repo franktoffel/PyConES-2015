@@ -474,7 +474,7 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"Do you want to be the first %(level_name)s sponsor? <a href=\"mailto:patrocinadores2015@es.pycon.org\" target=\"_blank\">Contact with us!</a>"
+"Do you want to be the first %(level_name)s sponsor? <a href=\"mailto:patrocinadores2015@es.pycon.org\" target=\"_blank\">Contact us!</a>"
 
 #: templates/pages/home.html:77
 msgid "Folleto (ES)"
